@@ -1,9 +1,6 @@
 # Academic Pages top navigation.
 # Content pages can be edited independently of this menu.
 main:
-  - title: "Home"
-    url: /
-
   - title: "Research"
     url: /research/
 
